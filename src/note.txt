@@ -1,0 +1,3 @@
+~RFnovNb,c1b
+database name: gregstkw_amazechic
+username: gregstkw_storeuser

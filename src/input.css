@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@media (max-width: 640px) {
+    /* Navbar */
+    .xshidden{
+        display: none;
+    }
+    .xsbgnone{
+        background-color: #232f3e;
+    }
+    .xsbordernone{
+        border-color: #232f3e;
+    }
+    .xsbg{
+        background-color: #232f3e;
+    }
+    .xsh{
+        height: 70px;
+    }
+
+    .xsforminput{
+        width: 26rem;
+        margin-left: -150px;
+    }
+}
